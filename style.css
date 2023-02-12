@@ -1,0 +1,21 @@
+*{
+    padding: 0;
+    margin:0;
+    box-sizing: border-box;
+    font-family: serif;
+}
+nav{
+    height: 80px;
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+}
+.container-fluid{
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+}
+nav #navbarSupportedContent{
+    
+    justify-content: end;
+}
